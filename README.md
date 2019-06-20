@@ -9,4 +9,4 @@
 matlab_2016a
 # Example
 保存数据的格式
-
+![image](https://github.com/initbin/RGBdata_collection_GUI/blob/master/examples/save_data.png)
